@@ -1,0 +1,20 @@
+{
+  "name": "Antelope",
+  "description": "A swift antelope with graceful antlers.",
+  "image": "ipfs://QmULAWEBEjiviJCBKLYFTf6K316PhZedfbuZqRRH3bP9ic/3.jpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2024"
+    }
+  ]
+}
+

@@ -1,0 +1,20 @@
+{
+  "name": "Zebra",
+  "description": "A zebra with black and white stripes.",
+  "image": "ipfs://QmULAWEBEjiviJCBKLYFTf6K316PhZedfbuZqRRH3bP9ic/7.jpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Savanna"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2024"
+    }
+  ]
+}
+

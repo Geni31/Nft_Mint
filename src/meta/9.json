@@ -1,0 +1,20 @@
+{
+  "name": "Owl",
+  "description": "A wise owl perched silently with its piercing eyes.",
+  "image": "ipfs://QmULAWEBEjiviJCBKLYFTf6K316PhZedfbuZqRRH3bP9ic/9.jpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Night Sky"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Common"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2024"
+    }
+  ]
+}
+

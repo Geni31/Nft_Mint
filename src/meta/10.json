@@ -1,0 +1,20 @@
+{
+  "name": "Hummingbird",
+  "description": "A vibrant hummingbird hovering gracefully with iridescent feathers.",
+  "image": "ipfs://QmULAWEBEjiviJCBKLYFTf6K316PhZedfbuZqRRH3bP9ic/10.jpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Tropical Garden"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Uncommon"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2024"
+    }
+  ]
+}
+

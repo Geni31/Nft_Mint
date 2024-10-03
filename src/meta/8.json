@@ -1,0 +1,20 @@
+{
+  "name": "Snake",
+  "description": "A sleek snake with a smooth, slithering body and intricate scales.",
+  "image": "ipfs://QmULAWEBEjiviJCBKLYFTf6K316PhZedfbuZqRRH3bP9ic/8.jpg",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Jungle"
+    },
+    {
+      "trait_type": "Rarity",
+      "value": "Rare"
+    },
+    {
+      "trait_type": "Year Created",
+      "value": "2024"
+    }
+  ]
+}
+
