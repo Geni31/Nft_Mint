@@ -10,7 +10,7 @@ To set up and run the application, follow these steps:
 
 ### Prerequisites
 
-- **Node.js and npm: Make sure you have Node.js and npm (Node Package Manager) installed. If you don’t have them installed, follow these steps:
+- Node.js and npm: Make sure you have Node.js and npm (Node Package Manager) installed. If you don’t have them installed, follow these steps:
 
     1. Visit nodejs.org.
     2. Download the LTS version for your operating system (Windows, macOS, or Linux).
