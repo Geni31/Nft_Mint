@@ -1,27 +1,40 @@
-# Minting Web App
+# NftMint
 
-This repository contains a minting web application that allows users to connect their MetaMask wallet and mint pictures. Once minted, users can view these pictures on the OpenSea testnet.
+NftMint is a web application designed for minting, allowing users to connect their MetaMask wallet and create unique images. After minting, users can showcase their creations on the OpenSea testnet.
 
-## Getting Started
+NftMint utilizes an ERC721 compliant smart contract for minting NFTs. This standard ensures that each token is unique and adheres to non-fungible token specifications.
+
+## Getting Started:
 
 To set up and run the application, follow these steps:
 
 ### Prerequisites
 
-- **Node.js**: Ensure you have Node.js installed. If not, download and install it from [nodejs.org](https://nodejs.org/).
+- **Node.js and npm: Make sure you have Node.js and npm (Node Package Manager) installed. If you don’t have them installed, follow these steps:
 
-### Installation
+    1. Visit nodejs.org.
+    2. Download the LTS version for your operating system (Windows, macOS, or Linux).
+    3. Install Node.js: Follow the installation instructions for your platform.
+    4. Verify Installation: After installation, check if Node.js and npm are installed by running:
+
+   ```bash
+   node -v
+   npm -v
+   ```
+   This will display the installed versions of Node.js and npm.
+
+### Installation:
 
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/21Saliji/Minting_Web_App.git
+   git clone https://github.com/Geni31i/NftMint.git
    ```
 
 2. **Navigate to the Project Directory**
 
    ```bash
-   cd your-repository
+   cd NftMint
    ```
 
 3. **Install Dependencies**
@@ -30,7 +43,7 @@ To set up and run the application, follow these steps:
    npm install
    ```
 
-### Running the Application
+### Running the Application:
 
 1. **Start the Development Server**
 
@@ -42,15 +55,13 @@ To set up and run the application, follow these steps:
 
    Open your web browser and go to `http://localhost:3000` (or the port specified in your configuration).
 
-### Features
+### Features:
 
-- **MetaMask Integration**: Connect your MetaMask wallet to interact with the application.
-- **Mint Pictures**: Mint pictures directly from the web app.
-- **View on OpenSea Testnet**: Once minted, you can view your pictures on the OpenSea testnet.
+- **MetaMask Integration**: Seamlessly connect your MetaMask wallet to interact with the app.
+- **Mint Pictures**: Easily mint unique pictures directly through the web interface.
+- **View on OpenSea Testnet**: View your minted pictures on the OpenSea testnet.
 
-### ERC721 Standard
 
-This application uses an ERC721 compliant smart contract for minting NFTs. The ERC721 standard ensures that the tokens are unique and adhere to the non-fungible token specifications.
 
 
 
